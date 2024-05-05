@@ -22,11 +22,11 @@ Welcome to the Candidate Application Platform! This web application helps candid
 
 ## Getting Started
 
-To get started with the Candidate Application Platform, follow these steps and Run this commands in terminal::
+To get started with the Candidate Application Platform, follow these steps and Run these commands in the terminal::
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/itsayu/job-portal,git
+git clone https://github.com/itsayu/job-portal.git
 cd candidate-application-platform
 ```
 
