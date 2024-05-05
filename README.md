@@ -1,5 +1,5 @@
 # Candidate Application Platform
-![CandidateApplicationPlatform](https://github.com/itsayu/job-portal/job-portal)
+![Candidate Application Platform](https://github.com/itsayu/job-portal/job-portal.png)
 
 Welcome to the Candidate Application Platform! This web application helps candidates find suitable job opportunities based on various filters.
 
