@@ -1,0 +1,83 @@
+.cardContainer {
+    border-radius: 20px !important; 
+    margin: 10px; 
+    width: 350px;
+}
+
+
+.logo {
+    width: 50px; 
+    height: 50px; 
+    /* border-radius: 50%;  */
+    margin-right: 10px; 
+}
+
+
+.description h3 {
+    margin: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.buttonContainer {
+    display: flex; 
+    justify-content: flex-end; 
+    margin-top: 10px; 
+    flex-direction: column; 
+    gap: 12px;
+}
+
+.buttonContainer button {
+    width: 100%; 
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 9px;
+    text-transform: capitalize !important;
+    box-shadow: none !important;
+}
+
+
+.cardWrapper {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    /* justify-content: space-between; */
+    gap: 1rem;
+}
+
+
+.cardHeader {
+    display: flex;
+    /* align-items: center; */
+}
+
+.cardHeader > div > p {
+    color: #888; 
+    font-weight: bold; 
+}
+
+.description > p {
+    color: rgba(0, 0, 0, 0.7); 
+    /* font-weight: bold;  */
+}
+
+.description .viewJobButton {
+    display: flex; 
+    justify-content: center; 
+}
+
+p {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+@media screen and (max-width: 350px) {
+    .cardContainer {
+        width: 100%;
+        margin: 0;
+    }
+
+    .app-container .css-1oqqzyl-MuiContainer-root {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    
+}
