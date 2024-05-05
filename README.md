@@ -9,17 +9,6 @@ Welcome to the Candidate Application Platform! This web application helps candid
 - **Filters:** Filter job listings based on criteria such as minimum experience, company name, location, remote/on-site availability, role, and minimum base pay.
 - **Easy Application:** Apply for jobs directly through the platform with just one click.
 
-## Requirements
-
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
-- [Nodejs](https://nodejs.org/en/)
-  - You'll know you've installed nodejs right if you can run:
-    - `node --version` and get an ouput like: `vx.x.x`
-- [npm](https://www.npmjs.com/get-npm) (Node Package Manager)
-  - You'll know you've installed npm right if you can run:
-    - `npm --version` and get an output like: `x.x.x`
-
 ## Getting Started
 
 To get started with the Candidate Application Platform, follow these steps and Run these commands in the terminal::
